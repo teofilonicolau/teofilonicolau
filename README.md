@@ -1,16 +1,31 @@
-### Hi there 👋
+## OPS!! Sou  Teófilo Nicolau, Técnico Agrícola. Autodidata(Aluno da AWS re/Start na Amazon Web Services(AWS))na Campinho Digital, & Iniciante em Programação T5 - ONE da Oracle pela Alura!
 
-<!--
-**teofilonicolau/teofilonicolau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##HI!! I'm Teófilo Nicolau, Agricultural Technician. Self-taught (AWS student re/Start at Amazon Web Services(AWS)) at Campinho Digital, & Beginner in Oracle T5 - ONE Programming by Alura!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teofilonicolau)](https://https://github.com/teofilonicolau/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teofilonicolau&show_icons=true&theme=radical)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Teo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Teo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Teo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Teo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Teo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Teo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  
+  ##
+ 
+<div> 
+
+ 	
+ 
+  <a href = "mailto:contatoteofilonicolau157@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/teofilo-nicolau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div
+
+
+
