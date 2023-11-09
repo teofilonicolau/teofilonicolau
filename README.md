@@ -1,4 +1,4 @@
-## OPS!! Sou  Teófilo Nicolau, Técnico Agrícola. Autodidata(Aluno da AWS re/Start na Amazon Web Services(AWS))na Campinho Digital, & Iniciante em Programação T5 - ONE da Oracle pela Alura!
+## OPS!! Sou  Teófilo Nicolau,Técnico Agrícola 56 anos.( AWS Certified Cloud Practitioner - Alunodos Cursos de: DA do Google , Capacitação em (IA) (Turma 03)SOFTEX - IFMA e TECNÓLOGO EM ADS na UNIFATECIE ).#50+
 
 ##HI!! I'm Teófilo Nicolau, Agricultural Technician. Self-taught (AWS student re/Start at Amazon Web Services(AWS)) at Campinho Digital, & Beginner in Oracle T5 - ONE Programming by Alura!
 
