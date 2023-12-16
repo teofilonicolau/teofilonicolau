@@ -1,6 +1,6 @@
-## OPS!! Sou  Teófilo Nicolau,Técnico Agrícola 56 anos.( AWS Certified Cloud Practitioner - Alunodos Cursos de: DA do Google , Capacitação em (IA) (Turma 03)SOFTEX - IFMA e TECNÓLOGO EM ADS na UNIFATECIE ).#50+
+## OPS!! Técnico Agrícola, 56 anos AWS Certified Cloud Practitioner Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIFATECIE e Desenvolvimento Web (Ser + Tech Programa 50+ da Ada Tech e Núclea) #50+
 
-##HI!! I'm Teófilo Nicolau, Agricultural Technician. Self-taught (AWS student re/Start at Amazon Web Services(AWS)) at Campinho Digital, & Beginner in Oracle T5 - ONE Programming by Alura!
+##Agricultural Technician, 56 years old, AWS Certified Cloud Practitioner, currently pursuing a degree in Systems Analysis and Development at UNIFATECIE, and Web Development (Ser + Tech Program, Ada Tech, and Núclea) #50+.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teofilonicolau)](https://https://github.com/teofilonicolau/github-readme-stats)
