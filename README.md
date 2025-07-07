@@ -1,4 +1,4 @@
-## Desenvolvedor | AWS | Cloud | Java | Developer
+## Aprendiz constante (Lifelong Learner) | Autodidata | Dev FullStack Jr (Java, Spring Boot) | IA Generativa | Prompt Engineer Júnior | AWS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teofilonicolau)](https://github.com/teofilonicolau/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teofilonicolau&show_icons=true&theme=radical)
